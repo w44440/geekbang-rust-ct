@@ -1,5 +1,8 @@
 [workspace]
 members = [
     "col03",
-    "col04",
+    "httppie",
+    "thumbor",
+
+    "simple_lexer",
 ]
